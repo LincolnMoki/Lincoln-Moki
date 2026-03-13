@@ -64,19 +64,7 @@ A modern, responsive dental website showcasing services with professional brandi
 **Live Site:** [princetondentalandimplantcenter.com](https://princetondentalandimplantcenter.com/)  
 **Repository:** [LincolnMoki/Princeton-Dental](https://github.com/LincolnMoki/Princeton-Dental)
 
----
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![Lincoln's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LincolnMoki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnMoki&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Currently Working On
 
