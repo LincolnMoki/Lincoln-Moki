@@ -1,8 +1,8 @@
-# 👨‍💻 Hey, I'm Lincoln Moki!
+ # 👨‍💻 Hey, I'm Lincoln Moki!
 
 **Full Stack Developer | Web Designer | Tech Enthusiast**
 
-Welcome to my GitHub! I'm passionate about building modern, beautiful web applications and solving real-world problems through code.
+I'm passionate about building modern, beautiful web applications and solving real-world problems through code.
 
 ---
 
